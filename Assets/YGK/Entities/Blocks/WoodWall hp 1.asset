@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bbc9d03d645f8c47b7fbbcedaabe05b, type: 3}
+  m_Name: WoodWall hp 1
+  m_EditorClassIdentifier: 
+  m_prefab: {fileID: 7616372377007492970, guid: 587daac8a31814345931d177edbddc8b,
+    type: 3}
+  m_hp: 1
+  m_canDrop: 0
+  m_canMatch: 0
+  m_canSwap: 0
+  m_canAffectOther: 0
+  m_canAffected: 1
+  m_canClick: 0
+  m_canMerge: 0
+  m_isGoal: 1
+  m_isItem: 0
+  m_colorLayer: 0
+  m_renderColorName: Wood

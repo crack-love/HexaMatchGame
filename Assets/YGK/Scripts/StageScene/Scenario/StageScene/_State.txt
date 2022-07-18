@@ -1,0 +1,15 @@
+﻿
+
+--------------------------------------------
+
+Start -> Drop
+
+Drop -> Pop
+
+Pop -> Drop
+	-> Clear
+
+Clear -> End
+	  -> Match
+
+Match -> Drop

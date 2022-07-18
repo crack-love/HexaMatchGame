@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 982f657dfe3456a4a955ff1d5ef66e8b, type: 3}
+  m_Name: SpawnSocket
+  m_EditorClassIdentifier: 
+  m_prefab: {fileID: -3474023067473044928, guid: af32dc2cca722a54c8ed56ad3d24aca2,
+    type: 3}
+  m_isSpawn: 1
+  m_canAffectedByAbove: 0
+  m_canAffectedByAround: 0
